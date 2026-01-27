@@ -13,10 +13,8 @@
 
 ### 🚀 Co u mnie słychać?
 - 🔭 **Aktualnie pracuję nad:** Doskonaleniem moich umiejętności w kodowaniu i optymalizacji systemów.
-- 🌱 **Uczę się:** Jak wycisnąć jeszcze więcej FPSów z Linuxa i podstaw zaawansowanego programowania.
-- 💬 **Pytaj mnie o:** Arch Linuxa, Windows LTSC, optymalizację PC .
-- ⚡ **Fun fact:** Używam sudo, bo mogę.
-
+- 🌱 **Uczę jak wycisnąć ze swojego sprzętu wszystko i podstaw zaawansowanego programowania.
+- 💬 **Pytaj mnie o:** Arch Linux, Windows LTSC, optymalizację PC .
 
 
 ### 📫 Znajdziesz mnie tutaj:
