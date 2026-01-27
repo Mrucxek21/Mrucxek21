@@ -13,7 +13,7 @@
 
 ### 🚀 Co u mnie słychać?
 - 🔭 **Aktualnie pracuję nad:** Doskonaleniem moich umiejętności w kodowaniu i optymalizacji systemów.
-- 🌱 **Uczę się**jak wycisnąć ze swojego sprzętu wszystko i podstaw zaawansowanego programowania.
+- 🌱 **Uczę się** jak wycisnąć ze swojego sprzętu wszystko i podstaw zaawansowanego programowania.
 - 💬 **Pytaj mnie o:** Arch Linux, Windows, optymalizację PC .
 
 
