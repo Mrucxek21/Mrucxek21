@@ -1,6 +1,6 @@
 # Cześć, jestem Mrucxek! 👋
 
-### 16-letni entuzjasta dłubania w systemach i kodowania dla funu.
+### 16-letni entuzjasta grzebania w systemach i programowania.
 
 ---
 
@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 Co u mnie słychać?
-- 🔭 **Aktualnie pracuję nad:** Doskonaleniem moich umiejętności w kodowaniu i optymalizacji systemów.
+- 🔭 **Aktualnie pracuję nad:** Doskonaleniem moich umiejętności w programowaniu i optymalizacji systemów.
 - 🌱 **Uczę się** jak wycisnąć ze swojego sprzętu wszystko i podstaw zaawansowanego programowania.
-- 💬 **Pytaj mnie o:** Arch Linux, Windows, optymalizację PC .
+- 💬 **Pytaj mnie o:** Linux, Windows, optymalizację PC .
 
 
 ### 📫 Znajdziesz mnie tutaj:
