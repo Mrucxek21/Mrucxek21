@@ -1,6 +1,6 @@
-# Cześć, jestem Mrucxek! 👋
+# Cześć, jestem Ksawery! 👋
 
-### 16-letni entuzjasta grzebania w systemach i programowania.
+### 16-letni vibecoder i osoba zajmujaca sie optymalizacja systemow i sieciami lokalnymi.
 
 ---
 
