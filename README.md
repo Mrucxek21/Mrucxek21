@@ -6,7 +6,7 @@
 
 ### 🛠 Moje środowisko pracy
 * **Main OS:** ![CachyOS](https://img.shields.io/badge/CachyOS-Arch_Based-blue?style=flat-square&logo=arch-linux&logoColor=white) 🚀
-* **Secondary OS:** !![Windows 11 Pro 25H2](https://img.shields.io/badge/Windows_11-Pro_25H2-0078D4?style=flat-square&logo=windows&logoColor=white)(Debloated & Clean)
+* **Secondary OS:** ![Windows 11 Pro 25H2](https://img.shields.io/badge/Windows_11-Pro_25H2-0078D4?style=flat-square&logo=windows&logoColor=white)(Debloated & Clean)
 * **Hardware:** Ryzen 9 5950x | Radeon Pro VII | 64GB RAM
 
 ---
