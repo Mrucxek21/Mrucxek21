@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Moje środowisko pracy
-* **Main OS:** ![Fedora](https://img.shields.io/badge/Fedora-Workstation-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/) 🚀
+* **Main OS:** [![Fedora](https://img.shields.io/badge/Fedora-Workstation-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/) 🚀
 * **Secondary OS:** ![Windows 11 Pro 24H2](https://img.shields.io/badge/Windows_11-Pro_24H2-0078D4?style=flat-square&logo=windows&logoColor=white) (Debloated & Clean)
 * **Hardware:** Ryzen 9 5950x | Radeon Pro VII | 64GB RAM
 
