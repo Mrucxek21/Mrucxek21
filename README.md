@@ -1,6 +1,6 @@
 # Cześć, jestem Ksawery! 👋
 
-### 16-letni coder i osoba zajmujaca sie optymalizacja systemow i sieciami lokalnymi.
+### 16-letni coder, osoba zajmujaca sie optymalizacja systemow i sieciami lokalnymi.
 
 ---
 
