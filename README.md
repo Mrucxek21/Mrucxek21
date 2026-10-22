@@ -1,36 +1,25 @@
-# Cześć, jestem Ksawery! 👋
+#
 
-### 16-letni coder, osoba zajmujaca sie optymalizacja systemow i sieciami lokalnymi.
-
----
-
-### 🛠 Moje środowisko pracy
-* **Main OS:** [![Fedora](https://img.shields.io/badge/Fedora-Workstation-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/) 🚀
-* **Secondary OS:** ![Windows 11 Pro 24H2](https://img.shields.io/badge/Windows_11-Pro_24H2-0078D4?style=flat-square&logo=windows&logoColor=white) (Debloated & Clean)
-* **Hardware:** Ryzen 9 5950x | Radeon Pro VII | 64GB RAM
+> Homelab enthusiast, Linux user, and hardware nerd focused on low-level tuning, stability, and clean setups.
 
 ---
 
-### 🚀 Co u mnie słychać?
-- 🔭 **Aktualnie pracuję nad:** Doskonaleniem moich umiejętności w programowaniu i optymalizacji systemów.
-- 🌱 **Uczę się** jak wycisnąć ze swojego sprzętu wszystko, podstaw zaawansowanego programowania i stawiania różnego typu usług w docker.
-- 💬 **Pytaj mnie o:** Linux, Windows, optymalizację PC .
+### Focus Areas
 
+* **Homelab & Infra**  
+  `Docker` `Self-hosting` `Reverse Proxies` `Network Tunnels`
 
-### 📫 Znajdziesz mnie tutaj:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/836504207388311552)
+* **Linux & Automation**  
+  `Distro Tweaks` `Dotfiles` `Bash / Python Scripting` `Systemd Services`
 
-<!--
-**Mrucxek21/Mrucxek21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **OS Optimization & Debloating**  
+  `Windows & Linux Stripping` `DPC Latency Reduction` `Frametime Consistency` `Service Trimming`
 
-Here are some ideas to get you started:
+* **Hardware & Overclocking**  
+  `RAM Timing Tuning (Subtimings)` `CPU/GPU Undervolting & PBO` `Stress Testing` `Benchmarking`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+`Linux` `Windows` `Bash` `Python` `Docker` `Networking` `TM5` `HWiNFO64`
