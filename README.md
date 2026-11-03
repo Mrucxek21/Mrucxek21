@@ -22,4 +22,4 @@
 
 ### Tech Stack
 
-(https://skillicons.dev/icons?i=linux,windows,bash,py,docker)
+![Tech](https://skillicons.dev/icons?i=linux,windows,bash,py,docker)
