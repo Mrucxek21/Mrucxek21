@@ -22,4 +22,4 @@
 
 ### Tech Stack
 
-`Linux` `Windows` `Bash` `Python` `Docker` `Networking` `TM5` `HWiNFO64`
+(https://skillicons.dev/icons?i=linux,windows,bash,py,docker)
